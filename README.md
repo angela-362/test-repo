@@ -1,6 +1,6 @@
 # Test-repo
 
-An example repository. We are using Markdown to write this file. Markdown can do lists
+This is an example repository. We are using Markdown to write this file. Markdown can do lists
 
 - Item 1
 - Item 2
