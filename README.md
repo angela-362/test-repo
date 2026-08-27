@@ -1,6 +1,6 @@
 # Test-repo
 
-An example repository. We are using Markdown to write this file. It can do lists
+An example repository. We are using Markdown to write this file. Markdown can do lists
 
 - Item 1
 - Item 2
@@ -18,3 +18,7 @@ def function(x):
 It even knows LaTeX
 ```math
 I=\int_a^b f(x)\, dx.
+```
+
+I forgot to mention subheadings like this:
+
